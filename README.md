@@ -1,1 +1,2 @@
 # Tout de Sweet Bakery Website
+Welcome to the Tout de Sweet E-commerce Website project. This website is a hypothetical online bakery shop that allows customers to purchase a variety of baked goods. The main goal of this project is to simulate a real-world online shopping experience for baked goods and provide customers with a user-friendly interface, a streamlined checkout process, and secure payment options.
